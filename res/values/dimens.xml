@@ -16,6 +16,9 @@
 
 <resources>
 
+    <!-- Color Mode Preview height -->
+    <dimen name="color_mode_preview_height">320dp</dimen>
+
     <!-- ActionBar height -->
     <dimen name="actionbar_size">56dip</dimen>
 
